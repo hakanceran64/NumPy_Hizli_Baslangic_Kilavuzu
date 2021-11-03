@@ -1,3 +1,4 @@
+![NumPy Photo](./NumPy_Python_Cover.jpg)
 
 ---
 
